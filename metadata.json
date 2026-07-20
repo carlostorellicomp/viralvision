@@ -1,0 +1,6 @@
+{
+  "name": "Remix: ViralVision",
+  "description": "SaaS alimentado por IA que analisa vídeos curtos para detectar padrões virais, ganchos e gatilhos emocionais usando Gemini 2.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
